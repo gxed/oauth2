@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package mailru provides constants for using OAuth2 to access Mail.Ru.
-package mailru // import "golang.org/x/oauth2/mailru"
+package mailru
 
 import (
 	"golang.org/x/oauth2"

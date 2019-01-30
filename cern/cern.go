@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package cern provides constants for using OAuth2 to access CERN services.
-package cern // import "golang.org/x/oauth2/cern"
+package cern
 
 import (
 	"golang.org/x/oauth2"
