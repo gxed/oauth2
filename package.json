@@ -1,0 +1,30 @@
+{
+  "author": "hsanjuan",
+  "bugs": {
+    "url": "https://github.com/golang/oauth2"
+  },
+  "gx": {
+    "dvcsimport": "golang.org/x/oauth2"
+  },
+  "gxDependencies": [
+    {
+      "author": "whyrusleeping",
+      "hash": "QmRvYNctevGUW52urgmoFZscT6buMKqhHezLUS64WepGWn",
+      "name": "go-net",
+      "version": "0.2.0"
+    },
+    {
+      "author": "hsanjuan",
+      "hash": "QmYh4km8QPJ5S24envRmBZDe3HQdfqR5eycu8U4WUESerE",
+      "name": "google-cloud-go-compute",
+      "version": "0.35.1"
+    }
+  ],
+  "gxVersion": "0.14.0",
+  "language": "go",
+  "license": "BSD-3-Clause",
+  "name": "oauth2",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
